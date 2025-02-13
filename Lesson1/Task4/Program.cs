@@ -6,19 +6,19 @@ int e = 10;
 
 int max = a;
 
-if (b > max);
+if (b > max)
 {
     max = b;
 }
-if (c > max);
+if (c > max)
 {
     max = c;
 }
-if (d > max);
+if (d > max)
 {
     max = d;
 }
-if (e > max);
+if (e > max)
 {
     max = e;
 }
