@@ -23,5 +23,10 @@ for (int i = 0; i < array.Length; i++)
     }
 }
 
+// int number = 45;
+
+// if(number > num) Console.WriteLine("Ура!");
+// if(!(number < num)) Console.WriteLine("Ура!");
+
 // string result = isExistNum ? "Да" : "Нет";
 Console.WriteLine(isExistNum ? "Да" : "Нет");
